@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mojek
-- 👀 I’m interested in Ruby and Python and React on Frontend.
-- 🌱 I’m currently learning Domain Driven Design and CQRS
+- 👀 I’m in FastAPI, Django, or Ruby on Rails + Next.js.
+- 🌱 I'm passionate about building scalable applications and constantly seeking new challenges, with a focus on implementing Domain Driven Design principle
 - 📫 How to reach me: twiter.com/mojek
 
 <!---
